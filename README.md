@@ -24,20 +24,3 @@ Below are the default login credentials to access the application:
 
 and so on....
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kstubhieeee/StaffZen
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd StaffZen
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm run dev
-   ```

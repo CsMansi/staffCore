@@ -22,5 +22,5 @@ Below are the default login credentials to access the application:
    - **Email:** employee3@example.com
    - **Password:** 123
 
-and so on....
+and so on.......
 
